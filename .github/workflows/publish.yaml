@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: salesforce-ant
+  IMAGE_NAME: guidion-digital/salesforce-ant
 
 jobs:
   build-and-push-image:
